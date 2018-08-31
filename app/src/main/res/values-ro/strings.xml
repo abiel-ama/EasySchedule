@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Programari usoare</string>
+
+    <!-- Strings related to login -->
+    <string name="language">Romana</string>
+    <string name="prompt_username">Nume utilizator</string>
+    <string name="prompt_password">Parola</string>
+    <string name="action_sign_in">Logare</string>
+    <string name="error_invalid_email">Adresa invalida</string>
+    <string name="error_invalid_password">Parola prea scurta</string>
+    <string name="error_incorrect_password">Parola incorecta</string>
+    <string name="error_field_required">Camp necesar pentru a fi completat</string>
+    <string name="error_minimum_lenght">Sa aibe cel putin 3 caractere</string>
+    <string name="permission_rationale">"Avem nevoie de permisiunile pentru contact."
+    </string>
+</resources>
